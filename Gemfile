@@ -7,6 +7,7 @@ ruby "2.7.0"
 gem 'devise'
 gem 'omniauth'
 gem 'omniauth-google-oauth2'
+gem 'byebug'
 
 gem 'pg'
 
